@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "WaitIKnowThis",
-    "slug": "WaitIKnowThis",
+    "slug": "wait-i-know-this",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -31,6 +31,18 @@
     ],
     "experiments": {
       "typedRoutes": true
+    },
+    "extra": {
+      "eas": {
+        "projectId": "e7728518-4823-4255-89e5-ccb33f3a6318"
+      }
+    },
+    "owner": "erikhervall",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/e7728518-4823-4255-89e5-ccb33f3a6318"
     }
   }
 }
